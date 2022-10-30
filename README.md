@@ -1,5 +1,5 @@
 ## 关于本代码仓库
-1. 主页地址：[https://gozhuyinglong.github.io](https://gozhuyinglong.github.io)
+1. 主页地址：[https://bnbqlic.github.io](https://bnbqlic.github.io)
 2. 这个代码仓库里是博客中涉及的源码、文件等
 3. 如果对您有帮助，请给个Star，谢谢您！
 
